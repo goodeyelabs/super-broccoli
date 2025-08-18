@@ -27,6 +27,6 @@ jobs:
         env:
           NEXT_PUBLIC_APP_URL: https://app.controlfront.io
           CF_ORG_ID: 446b215d-09c3-4d4f-9217-903d5bd7e8ca
-          CF_PROJECT_ID: 2800fee7-21dc-408c-90db-2d6eeb79b050
+          CF_PROJECT_ID: 7ac40ea6-be2f-4b36-b90a-192a4062d045
           CF_CI_MODE: "true"
-          CF_INGEST_TOKEN: djFV-XOxXlnF2YplS_zr-e7YOgMayxQFMPU7-M6X8hE
+          CF_INGEST_TOKEN: nXUrSGwgtjHLv9Q7v24dQKVRu9AnBoz9vhyGX_mJZOE
