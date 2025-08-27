@@ -26,7 +26,7 @@ jobs:
         run: npx -y @controlfront/cli@latest scan
         env:
           NEXT_PUBLIC_APP_URL: https://cf-dev-x8a9k2h1r7v3pzq5.ngrok.app
-          CF_ORG_ID: ef77d8bf-4728-4ada-9432-aace382f5ab2
-          CF_PROJECT_ID: d56b1322-daa2-4266-98a8-c2a230c2cb0d
+          CF_ORG_ID: e19204a5-736a-466c-8242-6c4b1e1c7943
+          CF_PROJECT_ID: addb0d66-7fbe-4d0d-8645-dd00fd8f4da4
           CF_CI_MODE: "true"
-          CF_INGEST_TOKEN: dX5ceuqctTLafkwgku-0VTg5adrF5ntKbEbU5H4NEek
+          CF_INGEST_TOKEN: DMWt8f9mLLbK8ghUPbk5-2Hlpt62phMdpkMSwrw0PuI
